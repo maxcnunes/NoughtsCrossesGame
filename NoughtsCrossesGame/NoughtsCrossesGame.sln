@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoughtsCrossesGame.Test", "NoughtsCrossesGame.Test\NoughtsCrossesGame.Test.csproj", "{2694C4B1-7238-492C-A127-93995B549923}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoughtsCrossesGame", "NoughtsCrossesGame\NoughtsCrossesGame.csproj", "{DAA51630-3464-4348-AC2A-DB52650DC00F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2694C4B1-7238-492C-A127-93995B549923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2694C4B1-7238-492C-A127-93995B549923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2694C4B1-7238-492C-A127-93995B549923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2694C4B1-7238-492C-A127-93995B549923}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAA51630-3464-4348-AC2A-DB52650DC00F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAA51630-3464-4348-AC2A-DB52650DC00F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAA51630-3464-4348-AC2A-DB52650DC00F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAA51630-3464-4348-AC2A-DB52650DC00F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
